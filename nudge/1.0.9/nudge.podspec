@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'nudge'
   s.version          = '1.0.9'
-  s.swift_version    = '3.2'
+  s.swift_version    = '4.2'
   s.summary          = 'Nudge is a powerful tool that enables mobile banking apps to send push notifications to users.'
 
 # This description is used to generate tags and improve search results.
@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'bromeostasis' => 'evan.snyder92@gmail.com' }
-  s.source           = { :http => 'https://github.com/getlarky/nudge-specs/releases/download/1.0.9/nudge.zip' }
+  s.source           = { :http => 'https://github.com/getlarky/nudge-specs/releases/download/1.0.10/nudge.zip' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
