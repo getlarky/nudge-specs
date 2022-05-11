@@ -1,1 +1,2 @@
-# nudge-specs
+# This repo is access durng the by iOS CocoaPods installation process.
+# Specifically the relase portion of this repo is accessed and needs to be maintained when a new release of our iOS library is published
